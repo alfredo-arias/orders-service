@@ -90,7 +90,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.actividadgrupal.com.actividadgrupal.orders_service.OrdersServiceApplication</mainClass> <!-- Cambia esto por la clase principal de tu aplicación -->
+                            <mainClass>com.actividadgrupal.orders_service.OrdersServiceApplication</mainClass> <!-- Cambia esto por la clase principal de tu aplicación -->
                         </manifest>
                     </archive>
                 </configuration>
